@@ -59,6 +59,8 @@ Neste curso, vamos abordar o Scrum, refletirmos sobre uma solução de um proble
   - Fluxogramas: site e appmaps e caminhos dos usuários
   - Heurísticas de usabilidade de Nielsen
   - Protótipos e testes de usabilidade
+- **Git**
+  - Padrões
 - **Implementação**
   - Quebrando histórias de usuário em tarefas
   - Sites: organização do CSS
